@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-stripes {
+    background-image: repeating-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.05) 0,
+      rgba(255, 255, 255, 0.05) 6px,
+      transparent 6px,
+      transparent 12px
+    );
+  }
+}
+
+html {
+  color-scheme: dark;
+}

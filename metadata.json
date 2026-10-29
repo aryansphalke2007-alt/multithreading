@@ -1,0 +1,6 @@
+{
+  "name": "OS Algorithm Simulator & Multithreading Lab",
+  "description": "Interactive Operating Systems algorithm simulator featuring real multithreaded CPU scheduling with Gantt charts and contiguous memory allocation with fragmentation analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
